@@ -1,5 +1,3 @@
-#### Bot for autists who banned Google
-
 #### For start
 Create virtualenv:
 
@@ -12,3 +10,12 @@ Activate it:
 Install requirements:
 
 `pip install -r requirements.txt`
+
+
+#### Boat for service https://google.gik-team.com/
+
+#### The bot is located here: [@goo4ubot](https://t.me/goo4ubot)
+
+#### How to use:
+
+`@goo4ubot <search_query>`
